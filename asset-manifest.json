@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sehnoor/static/css/main.6e39dcf5.chunk.css",
+    "main.js": "/sehnoor/static/js/main.e4b1c17d.chunk.js",
+    "main.js.map": "/sehnoor/static/js/main.e4b1c17d.chunk.js.map",
+    "runtime-main.js": "/sehnoor/static/js/runtime-main.f5692e91.js",
+    "runtime-main.js.map": "/sehnoor/static/js/runtime-main.f5692e91.js.map",
+    "static/css/2.2a86faee.chunk.css": "/sehnoor/static/css/2.2a86faee.chunk.css",
+    "static/js/2.e49e5668.chunk.js": "/sehnoor/static/js/2.e49e5668.chunk.js",
+    "static/js/2.e49e5668.chunk.js.map": "/sehnoor/static/js/2.e49e5668.chunk.js.map",
+    "index.html": "/sehnoor/index.html",
+    "precache-manifest.971c5a3ae5cd9cc482782bea2f140193.js": "/sehnoor/precache-manifest.971c5a3ae5cd9cc482782bea2f140193.js",
+    "service-worker.js": "/sehnoor/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/sehnoor/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.6e39dcf5.chunk.css.map": "/sehnoor/static/css/main.6e39dcf5.chunk.css.map",
+    "static/js/2.e49e5668.chunk.js.LICENSE.txt": "/sehnoor/static/js/2.e49e5668.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sehnoor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5692e91.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.e49e5668.chunk.js",
+    "static/css/main.6e39dcf5.chunk.css",
+    "static/js/main.e4b1c17d.chunk.js"
+  ]
+}
